@@ -10,6 +10,5 @@
 
 - Kodarena: https://kodarena.com
 - Ulu Ağ (E-magazine): http://ogrdergi.herokuapp.com
-- Printers Down - E-book website builder: https://printersdown.com
 - Social media for university students (Only available on Turkey): https://uniburada.com
 - Personal Website: https://berkaycubuk.com
