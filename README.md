@@ -11,7 +11,6 @@ Who I am?
 ### Latest posts from my blog
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What is domain and why it's important](https://berkaycubuk.com/what-is-domain-and-why-its-important/)
 - [Java Variables](https://berkaycubuk.com/java-variables/)
 - [Java Comments](https://berkaycubuk.com/java-comments/)
