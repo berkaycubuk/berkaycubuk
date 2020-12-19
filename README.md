@@ -4,7 +4,7 @@ I'm Berkay and welcome to my Github profile.
 
 Who I am?
 
-- Full Stack Web Developer 🎒
+- Creative Full Stack Developer 🎒
 - CSS Magician 🧙‍♂️
 - University Student 👨‍🎓
 
