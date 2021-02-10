@@ -11,9 +11,9 @@ Who I am?
 ### Latest posts from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Vscode Theme](https://berkaycubuk.com/how-to-create-vscode-theme/)
-- [What is domain and why it's important](https://berkaycubuk.com/what-is-domain-and-why-its-important/)
-- [Java Variables](https://berkaycubuk.com/java-variables/)
-- [Java Comments](https://berkaycubuk.com/java-comments/)
-- [Introduction to Java](https://berkaycubuk.com/java-introduction/)
+- [How to get more productive](https://berkaycubuk.com/how-to-get-more-productive/)
+- [Programming Languages for Beginners](https://berkaycubuk.com/programming-languages-for-beginners/)
+- [Power of Programming](https://berkaycubuk.com/power-of-programming/)
+- [How to filter your business ideas?](https://berkaycubuk.com/how-to-filter-your-business-ideas/)
+- [What is SEO?](https://berkaycubuk.com/what-is-seo/)
 <!-- BLOG-POST-LIST:END -->
