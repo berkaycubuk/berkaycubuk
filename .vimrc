@@ -41,3 +41,11 @@ let g:ctrlp_use_caching = 0
 let g:netrw_winsize = 25                           
                                                    
 nnoremap <C-p> :GFiles<CR>
+nnoremap <C-t> :Files<CR>
+nnoremap <C-s> :w<CR>
+nnoremap <Leader>pt :NERDTreeToggle<Enter>
+map <leader>h :wincmd h<CR>
+map <leader>j :wincmd j<CR>
+map <leader>k :wincmd k<CR>
+map <leader>l :wincmd l<CR>
+nmap <leader>gs :G<CR>
